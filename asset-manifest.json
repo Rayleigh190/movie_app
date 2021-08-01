@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/Rayleigh190/movie_app/static/css/main.4f7dfd85.chunk.css",
-    "main.js": "/Rayleigh190/movie_app/static/js/main.bafcd9cd.chunk.js",
-    "main.js.map": "/Rayleigh190/movie_app/static/js/main.bafcd9cd.chunk.js.map",
-    "runtime-main.js": "/Rayleigh190/movie_app/static/js/runtime-main.c75d3ccd.js",
-    "runtime-main.js.map": "/Rayleigh190/movie_app/static/js/runtime-main.c75d3ccd.js.map",
-    "static/js/2.cc16e8eb.chunk.js": "/Rayleigh190/movie_app/static/js/2.cc16e8eb.chunk.js",
-    "static/js/2.cc16e8eb.chunk.js.map": "/Rayleigh190/movie_app/static/js/2.cc16e8eb.chunk.js.map",
-    "index.html": "/Rayleigh190/movie_app/index.html",
-    "static/css/main.4f7dfd85.chunk.css.map": "/Rayleigh190/movie_app/static/css/main.4f7dfd85.chunk.css.map",
-    "static/js/2.cc16e8eb.chunk.js.LICENSE.txt": "/Rayleigh190/movie_app/static/js/2.cc16e8eb.chunk.js.LICENSE.txt"
+    "main.css": "/movie_app/static/css/main.4f7dfd85.chunk.css",
+    "main.js": "/movie_app/static/js/main.bafcd9cd.chunk.js",
+    "main.js.map": "/movie_app/static/js/main.bafcd9cd.chunk.js.map",
+    "runtime-main.js": "/movie_app/static/js/runtime-main.a94d7af3.js",
+    "runtime-main.js.map": "/movie_app/static/js/runtime-main.a94d7af3.js.map",
+    "static/js/2.cc16e8eb.chunk.js": "/movie_app/static/js/2.cc16e8eb.chunk.js",
+    "static/js/2.cc16e8eb.chunk.js.map": "/movie_app/static/js/2.cc16e8eb.chunk.js.map",
+    "index.html": "/movie_app/index.html",
+    "static/css/main.4f7dfd85.chunk.css.map": "/movie_app/static/css/main.4f7dfd85.chunk.css.map",
+    "static/js/2.cc16e8eb.chunk.js.LICENSE.txt": "/movie_app/static/js/2.cc16e8eb.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.c75d3ccd.js",
+    "static/js/runtime-main.a94d7af3.js",
     "static/js/2.cc16e8eb.chunk.js",
     "static/css/main.4f7dfd85.chunk.css",
     "static/js/main.bafcd9cd.chunk.js"
